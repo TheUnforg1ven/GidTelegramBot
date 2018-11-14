@@ -2,7 +2,7 @@
 {
 	public static class AppSettings
 	{
-		public static string Url { get; set; } = "<Bot_Url>";
+		public static string Url { get; set; } = "Bot_url";
 
 		public static string Name { get; set; } = "Bot_name";
 
